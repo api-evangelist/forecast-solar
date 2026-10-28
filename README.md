@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Forecast.Solar is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://forecast.solar/
+Forecast.Solar provides a RESTful API delivering solar production forecasts and weather data for photovoltaic installations worldwide. Leveraging PVGIS irradiation data and multiple weather services, the service offers hourly to 15‑minute resolution forecasts, historic averages, and clear‑sky estimates. It supports professional accounts with advanced features such as time‑window calculations and chart generation, enabling developers and energy managers to integrate solar forecasting into applications and automation workflows.
+
+**Areas:** Company · Solar · Forecast · API · Renewable Energy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://forecast.solar/)
+- [Documentation](https://doc.forecast.solar/)
+- [Getting started](https://doc.forecast.solar/doku.php?id=start)
+- [API reference](https://api.forecast.solar/swagger.yaml)
+- [Support](https://support.knutkohl.consulting/)
+- [Status](https://status.forecast.solar/)
+
+**APIs profiled:** 8
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/forecast-solar/](https://apis.io/providers/forecast-solar/).
